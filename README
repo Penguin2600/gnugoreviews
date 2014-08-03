@@ -1,0 +1,10 @@
+Does simple game reviews based on feedback from gnugo.
+
+Install gnugo somewhere in the path
+apt-get install gnugo works well on ubuntu
+
+Then run like:
+
+sgfreview -i input.sgf -o output.sgf
+
+sgfreview -h for more options.
